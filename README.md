@@ -1,35 +1,3 @@
-# Site1
-Info cours à domicile 
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Mon Site</title>
-
-  <style>
-    * {
-      margin: 0;
-      padding: 0;
-      box-sizing: border-box;
-      font-family: Arial, sans-serif;
-    }
-
-    body {
-      background: #0f172a;
-      color: white;
-      text-align: center;
-    }
-
-    header {
-      padding: 40px 20px;
-      font-size: 28px;
-      font-weight: bold;
-      background: linear-gradient(90deg, teal, #0ea5e9);
-    }
-
-    .container {
-      padding: 30px 20px;
     }
 
     .image-box img {
